@@ -20,7 +20,7 @@ npm run start
 
 To use a different port, modify this line in `package.json`:
 ```bash
-"start": "next start -p 3001",
+"start": "next start -p 3000",
 ```
 
 Open [http://localhost:3001](http://localhost:3001) with your browser to see the result.
