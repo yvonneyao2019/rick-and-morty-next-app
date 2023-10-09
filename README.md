@@ -18,9 +18,13 @@ npm run build
 npm run start
 ```
 
+
+By default setting, open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+
 To use a different port, modify this line in `package.json`:
 ```bash
-"start": "next start -p 3000",
+"start": "next start -p 3001",
 ```
 
-Open [http://localhost:3001](http://localhost:3001) with your browser to see the result.
+
